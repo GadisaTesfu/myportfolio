@@ -1,0 +1,24 @@
+
+
+
+
+/* Hide the large search form on small devices */
+@media (max-width: 768px) {
+  .form-fixed {
+    display: none;
+  }
+  
+}
+
+/* Hide the small search form on large devices */
+@media (min-width: 769px) {
+  .form-inline {
+    display: none;
+  }
+}
+
+/* Additional style for small screens to handle search form visibility */
+.navbar-collapse.show .form-fixed {
+  display: none !important;
+}
+
