@@ -5,10 +5,10 @@ const projects = [
     title: 'Issue Tracking System',
     description: `An ITS is a software application that helps organizations manage and track reported issues in their products throughout their lifecycle. It enables teams to capture, prioritize, assign, track progress, and resolve issues efficiently.`,
     images: [
-      '../../src/assets/img/login.png',
-      '../../src/assets/img/login.jpg',
-      '../../src/assets/img/branch.png',
-      '../../src/assets/img/kb.png',
+      '././src/assets/img/login.png',
+      '././src/assets/img/login.jpg',
+      '././src/assets/img/branch.png',
+      '././src/assets/img/kb.png',
     ],
   },
   {
